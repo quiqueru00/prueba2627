@@ -4,4 +4,4 @@ Repositorio de prueba
 dsdsds
 ## Sección 2
 ffgd
-[Acceso a google](www.google.es)
+[Acceso a google](https://www.google.es)
